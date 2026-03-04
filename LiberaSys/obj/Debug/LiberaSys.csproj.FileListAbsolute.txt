@@ -1,0 +1,54 @@
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LiberaSys.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe.config
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBooks.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Dashboard.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBooks.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterForm.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBooks.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LiberaSys.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LiberaSys.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Daniel\Desktop\NOIT\LibraSys v4.1\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\bin\Debug\LibraryManagementSystem.exe
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LiberaSys.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.exe.config
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.AddBooks.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.Dashboard.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.IssueBooks.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.RegisterForm.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.ReturnBooks.resources
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LiberaSys.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LiberaSys.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.exe
+C:\Users\User\Desktop\LibraSys v5 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LiberaSys.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.exe.config
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.AddBooks.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.Dashboard.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.IssueBooks.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.RegisterForm.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.ReturnBooks.resources
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LiberaSys.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LiberaSys.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Daniel\Desktop\NOIT\LibraSys v6 no setup\LiberaSys\obj\Debug\LibraryManagementSystem.pdb
